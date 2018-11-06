@@ -5,31 +5,45 @@ Application service quality assurance based on networking infrastructure
 
 ## Business/Technical Challenge
 
-**TODO:** 1-3 paragraphs of the business/technical Challenge
+Currently, our customer don't have enough visiblity of their applications 
+performance in their networks. This impacts on user experience.
+In a real time application, such as video, there's no fast and 
+automatic manner to identify where and when the issues happen.
+
+The related troubleshooting generates expensive and time consuming efforts
+for operations teams. For a customer this means lower end user satisfaction, 
+higher costs, higher CHURN among others.
 
 ## Proposed Solution
 
+Our solution monitor, troubleshoot and takes action to mitigate 
+and solve issues that impact end users.
+It leverages the full automation closed-loop and the capablities 
+to run 3rd party applications on network infrastructure. 
 
-**TODO:** 1-3 paragraphs of the solution in written format
+The solution allows the visibility on traffic at application level
+in order to have faster and smarter decisions based on network and 
+application level criteria.
+
+In this phase we'll focus on video as the application, and the use
+cases of automatic traffic re-route and creation/destruction of virtual 
+routers for traffic/suscription growth behavior lading to improved 
+end user experience and lower costs.
 
 
 ### Cisco Products Technologies/ Services
 
-**TODO:** List out major technologies included in the solution (ACI, DNAC, third party, etc) e.g
-
 Our solution will levegerage the following Cisco technologies
 
-* [Application Centric Infrastructure (ACI)](http://cisco.com/go/aci)
-* [DNA Center (DNA-C)](http://cisco.com/go/dna)
-
+* [Virtual Service Containers (IOS XE, CSR1Kv)](http://cs.co/9006BnlDC)
+* [NSO](https://www.cisco.com/c/en/us/solutions/service-provider/solutions-cloud-providers/network-services-orchestrator-solutions.html)
+* [ESC] (https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/network-services-orchestrator/datasheet-c78-734670.html)
+* [Webex Teams](https://teams.webex.com)
 ## Team Members
 
 
-**TODO:** ASIC projects must consist of a minimum of 2 SE’s
-representing a minimum of 2 segments. List names here
-
-* team member1 <email> - Segment Name
-* team member2 <email> - Segment Name
+* Paulo Seguel <pseguel@cisco.com> - Americas Partner Organization
+* Vergello Cricencio <vcricenc@cisco.com> - SP Americas
 
 
 ## Solution Components
