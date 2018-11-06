@@ -5,7 +5,7 @@ Application service quality assurance based on networking infrastructure
 
 ## Business/Technical Challenge
 
-Currently, our customer don't have enough visiblity of their applications 
+Currently, our customers don't have enough visiblity of their applications 
 performance in their networks. This impacts on user experience.
 In a real time application, such as video, there's no fast and 
 automatic manner to identify where and when the issues happen.
@@ -37,7 +37,7 @@ Our solution will levegerage the following Cisco technologies
 
 * [Virtual Service Containers (IOS XE, CSR1Kv)](http://cs.co/9006BnlDC)
 * [NSO](https://www.cisco.com/c/en/us/solutions/service-provider/solutions-cloud-providers/network-services-orchestrator-solutions.html)
-* [ESC] (https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/network-services-orchestrator/datasheet-c78-734670.html)
+* [ESC](https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/network-services-orchestrator/datasheet-c78-734670.html)
 * [Webex Teams](https://teams.webex.com)
 ## Team Members
 
